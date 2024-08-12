@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://huangliang-brainwash.github.io/sitemap.xml
